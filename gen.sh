@@ -8,13 +8,5 @@ if [ -z "$scale" ]; then
   exit 1
 fi
 cd /opt/tools
-for i in $(seq 1 12); do
-  echo "Generating data for part $i in /data/part_$i"
-  mkdir -p /data/part_$i
-  ./dsdgen -scale $scale \
-           -dir /data/part_$i \
-           -parallel 12 \
-           -child $i \
-           -terminate n &
-done
-wait
+echo "Generating data for scale $scale in /data"
+./dsdgen -scale $scale  -dir /data

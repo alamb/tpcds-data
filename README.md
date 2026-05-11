@@ -5,7 +5,7 @@ Precomputed TPC-DS data at different scale factors
 
 Part of the [`tpchgen-rs`] project, this repository provides pre-computed data for TPC-DS for
 use in benchmarking and testing. The data is generated using the TPC-DS generator provided by the
-TPC organization and is available at scale factors 0.01, 0.1, and 1.
+TPC organization and is available at scale factors.
 
 [`tpchgen-rs`]: https://github.com/clflushopt/tpchgen-rs
 
@@ -16,8 +16,6 @@ the size of the resulting datasets.
 # Data
 The Pre-computed data for TPC-DS  lives on several branches:
 * [`sf1`] - Scale Factor 1
-* [`sf0.1`] - Scale Factor 0.1
-* [`sf0.01`] - Scale Factor 0.01
 
 Originally from https://github.com/apache/datafusion-benchmarks/blob/main/tpcds/README.md
 
