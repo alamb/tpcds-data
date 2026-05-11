@@ -1,7 +1,21 @@
-TODO: rename the repo to tpcds-data
-
-# tpcds-dsdgen
+# tpcds-data
 Precomputed TPC-DS data at different scale factors
+
+You almost certainly want check out this repo using `--depth 1`  to avoid downloading the full history of the data files.
+
+# Scale Factor 1
+```shell
+git clone --single-branch -b sf1  --depth 1 https://github.com/alamb/tpcds-data.git 
+cd tpcds-data
+cat data.tar.bz2.* | bzip2 -d | tar x
+```
+
+# Data
+The Pre-computed data for TPC-DS  lives on several branches:
+
+Scale Factor 1:  https://github.com/alamb/tpcds-data/tree/sf1
+
+# Introduction
 
 Part of the [`tpchgen-rs`] project, this repository provides pre-computed data for TPC-DS for
 use in benchmarking and testing. The data is generated using the TPC-DS generator provided by the
@@ -13,9 +27,6 @@ As anyone who has needed to generate TPC-DS data knows, this is a laborious and
 time consuming process due to the bespoke tools provided by the TPC organization and
 the size of the resulting datasets. 
 
-# Data
-The Pre-computed data for TPC-DS  lives on several branches:
-* [`sf1`] - Scale Factor 1
 
 Originally from https://github.com/apache/datafusion-benchmarks/blob/main/tpcds/README.md
 
@@ -70,9 +81,14 @@ And within the container
 $ gen.sh 1 # Scale Factor 1
 ```
 
-
-This creates 12 partitions of the data in the `data` directory.
+Then exit the container and zip into multiple smaller files using
 
 ```shell
+tar c data | pbzip2 | split -b 20m - data.tar.bz2.
+```
 
+Extract via
+
+```asm
+cat data.tar.bz2.* | pbzip2 -d | tar x
 ```
