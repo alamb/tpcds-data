@@ -21,4 +21,4 @@ RUN make CC="gcc -fcommon -O3"
 COPY gen.sh /usr/local/bin/gen.sh
 RUN chmod +x /usr/local/bin/gen.sh
 
-# note the working dir is /opt/tools
+ENTRYPOINT ["/bin/bash"]

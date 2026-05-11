@@ -37,7 +37,7 @@ drwxr-xr-x@  70 andrewlamb  staff   2.2K Apr 15  2022 tests/
 drwxr-xr-x@ 252 andrewlamb  staff   7.9K May 11 10:03 tools/
 ```
 
-## Symlink Tools Directory
+## Copy Tools Directory
 
 Copy (not symlink) the tools directory to `tools`
 
@@ -62,7 +62,8 @@ The Docker build needs the `DSGen-software-code-4.0.0/tools` directory in its bu
 
 Run the container 
 ```shell
-docker run  -v ./data:/data  -it tpcdsgen  /bin/bash
+mkdir -p data
+docker run  -v ./data:/data  -it tpcdsgen 
 ```
 And within the container
 ```shell
