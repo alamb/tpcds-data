@@ -1,3 +1,16 @@
+# TPC-DS MD5 checksums for various scale factors.
+
+They were created with the `dsdgen` tool from the TPC-DS_Tools_v4.0.0.zip
+package, and the `md5sum` command.
+
+```shell
+./dsdgen -SCALE <SF>
+md5sum *.dat
+```
+
+Note that `dbgen_version.dat` contains information about the generation
+parameters such as the date and time it ran, and thus varies from run to run.
+
 # Scale Factor 1
 ```
 cc9aabc63eb8603bd7330b6735ed0961  call_center.dat
@@ -8,7 +21,7 @@ a08066ed04041d3370f923a9a3969900  customer.dat
 abac2e3925ab9bf66cec3b527a0468ed  customer_address.dat
 8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
 f3e77714328dcc57302777e72fd7747c  date_dim.dat
-f922248ed0b69bd426a414fa098da89e  dbgen_version.dat
+204afcfdcdfadd14c33759d01bf741bf  dbgen_version.dat
 dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
 db8e8012be51ef81cf215774bec95533  income_band.dat
 cfefc8724693ec9149f1d5b345fcecc2  inventory.dat
@@ -37,7 +50,7 @@ e7aa6bb3749c63217fc78ba542c97b3e  customer.dat
 7d48270ba8a9c2b80b0e4a2235340749  customer_address.dat
 8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
 f3e77714328dcc57302777e72fd7747c  date_dim.dat
-9a397524c5ac9efa4f41c89ed94bb3d2  dbgen_version.dat
+0313bf88743103f8a90127ed6ce040b6  dbgen_version.dat
 dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
 db8e8012be51ef81cf215774bec95533  income_band.dat
 7946b67c1088f2dd686b9a5438bda5eb  inventory.dat
@@ -124,7 +137,7 @@ ec1ef558b20e106d0865d8d4e0e1e2da  web_page.dat
 0b0cf1f590a517d337c5427f8fcb9709  customer_address.dat
 8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
 f3e77714328dcc57302777e72fd7747c  date_dim.dat
-5c59f534b6798b3f67abbfa2aa08e843  dbgen_version.dat
+398e7bdd1906c42e786d66eb37962c67  dbgen_version.dat
 dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
 db8e8012be51ef81cf215774bec95533  income_band.dat
 85f184fc5e7fb8b5ea35e3fa075ac64d  inventory.dat
@@ -288,3 +301,32 @@ e55695fdb2b86f96cf46e2a55b6f3748  web_page.dat
 4669d52e36cd112af10e137e5d8d7697  web_site.dat
 ```
 
+
+# Scale Factor 50
+```
+35553e06bd3408cba651402f2ff8b146  call_center.dat
+0bbac1b8bdcf8ce2d5f0034980ee0196  catalog_page.dat
+c43272e7ceca29924b1d8a546c615782  catalog_returns.dat
+db5b6ac793f7c3b8e6f64079340aeb50  catalog_sales.dat
+e879c66153466c65489b00ab29b12ea7  customer.dat
+a6412e6123b4df326572e383d050254a  customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  date_dim.dat
+9b1c5c6a90d068e5ba2502c29bda1387  dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
+db8e8012be51ef81cf215774bec95533  income_band.dat
+42a382a5d83eb57d5ced26b9028b6f78  inventory.dat
+2c4e924dbe1cbeca49634ea5ed3cbe61  item.dat
+88651e20ed9fbde1453d8d507f8ba08c  promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  reason.dat
+791d16af982a67ad170a6b6527e25a35  ship_mode.dat
+f60600d84dd3f0ac11f4bb6eb9768168  store.dat
+38730c0a1c09f04c38d747747539fd39  store_returns.dat
+a1f7ce1f7750ba1ed82988f510f4f09d  store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  time_dim.dat
+541db99415eb46e4e8e7efc3d9bafd9e  warehouse.dat
+6cfd473b908e80af2293d9446398d364  web_page.dat
+5a287a0d8d8c4d4a036fdd5ef4e6ad42  web_returns.dat
+6ee8a1a69c88d041e9b07b497f24bb21  web_sales.dat
+b381f42a67ae3d55998de45c18f9c787  web_site.dat
+```
