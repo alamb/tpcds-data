@@ -1,0 +1,290 @@
+# Scale Factor 1
+```
+cc9aabc63eb8603bd7330b6735ed0961  call_center.dat
+0bbac1b8bdcf8ce2d5f0034980ee0196  catalog_page.dat
+f7cc7c90d74f59cbf73c36383eaf62cc  catalog_returns.dat
+51a0bc401b4b64d94736634b54068240  catalog_sales.dat
+a08066ed04041d3370f923a9a3969900  customer.dat
+abac2e3925ab9bf66cec3b527a0468ed  customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  date_dim.dat
+f922248ed0b69bd426a414fa098da89e  dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
+db8e8012be51ef81cf215774bec95533  income_band.dat
+cfefc8724693ec9149f1d5b345fcecc2  inventory.dat
+bebbcfd1acecdea16a5a3feb5e4deb96  item.dat
+acb42558d0dc5e0ab6df5a664c1629cf  promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  reason.dat
+791d16af982a67ad170a6b6527e25a35  ship_mode.dat
+80082d03e1b01340e19db3187d8edbd6  store.dat
+0bd723c027e3ff03b457546190537889  store_returns.dat
+f003b3810e042d6dd47f48506616d88d  store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  time_dim.dat
+f56789e8b724b989d74e213e0686052f  warehouse.dat
+6feef91675c336d6f25e55ebbdf8c13c  web_page.dat
+4c413aabff1f06cc23a0d61db4a1df3c  web_returns.dat
+15f9d835727f3a39a096c346f56e51f7  web_sales.dat
+de5fb00a80673cb44b4b508da75d4bcf  web_site.dat
+```
+
+# Scale Factor 2
+```
+bef1a10fc927e16686340cdfbfd8888f  call_center.dat
+0bbac1b8bdcf8ce2d5f0034980ee0196  catalog_page.dat
+db82d8a648f185542a199460456cfc19  catalog_returns.dat
+e6f8ae62af240b74610de425ff9672a2  catalog_sales.dat
+e7aa6bb3749c63217fc78ba542c97b3e  customer.dat
+7d48270ba8a9c2b80b0e4a2235340749  customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  date_dim.dat
+9a397524c5ac9efa4f41c89ed94bb3d2  dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
+db8e8012be51ef81cf215774bec95533  income_band.dat
+7946b67c1088f2dd686b9a5438bda5eb  inventory.dat
+4c4b2282d888d1a6c342091ab4937adc  item.dat
+427f683a237d4785bc26569c406cd394  promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  reason.dat
+791d16af982a67ad170a6b6527e25a35  ship_mode.dat
+a0cb7c50dad7c8af169709af37e97ff8  store.dat
+187610bc6ead0f903d7e6a4528fae935  store_returns.dat
+1e236e974690712200e6a0d5d1580528  store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  time_dim.dat
+f56789e8b724b989d74e213e0686052f  warehouse.dat
+5af09e941be37b6422879f9530be1c57  web_page.dat
+3734ca5e96b0ef8dcf1130a35abce898  web_returns.dat
+4ae58b7f7f0b77e4aa780506a342332e  web_sales.dat
+de5fb00a80673cb44b4b508da75d4bcf  web_site.dat
+```
+
+# Scale Factor 3
+```
+115fb31501f429b4cd77611000d4b50c  call_center.dat
+0bbac1b8bdcf8ce2d5f0034980ee0196  catalog_page.dat
+8e5a925845d1ebea2f18e241d6c5a884  catalog_returns.dat
+516ff35c2caccdc8125fa50f88e07661  catalog_sales.dat
+4ec7f59f8e3cb632b6e5fa8ca5275286  customer.dat
+7b146083ede592e334ec1ba3129afb0d  customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  date_dim.dat
+f82055a730f897adee2cb73021e603bc  dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
+db8e8012be51ef81cf215774bec95533  income_band.dat
+912e83f26dd8d67dd94ec12de6587fab  inventory.dat
+76be35ca475ed4f9b33dcf74bbdda44b  item.dat
+27d5cbf4b18bbae4818bdafd5cba5b1b  promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  reason.dat
+791d16af982a67ad170a6b6527e25a35  ship_mode.dat
+8af27741f456d231e261113b6be63749  store.dat
+e39a82f42ad87c86ce747180306e43f1  store_returns.dat
+b30bfa077fd38a31850de842fcd9254b  store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  time_dim.dat
+a04f92bba1cf7f6834174e1f58926a2c  warehouse.dat
+6b6c91be3f9f72150bced837cc5bc63f  web_page.dat
+45b7606a6e303617d8341b87c8d986c5  web_returns.dat
+0808abe57fd4afda0bb250def2c7983d  web_sales.dat
+b127c87fe3dc04c98c3df8d530ad1e7f  web_site.dat
+```
+
+# Scale Factor 4
+```
+42e85a37d54b5582c34e3581e8c5c404  call_center.dat
+0bbac1b8bdcf8ce2d5f0034980ee0196  catalog_page.dat
+25539db4fd64e43c4f6c2e81b1caecc6  catalog_returns.dat
+0a78f26b7d55b28fc839149da562ed74  catalog_sales.dat
+0f38dc1443adef7a06a7d5e66350e262  customer.dat
+29e0151e3bbb9549d5fa7108e6b84c1d  customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  date_dim.dat
+7a85e2dd96b3c97116213ea3ede22f82  dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
+db8e8012be51ef81cf215774bec95533  income_band.dat
+cd7c0aa173925c3396e0e3a2262fa5bb  inventory.dat
+314aa0ed5259fb31173a05248d154646  item.dat
+d787df32fde83491993561454d62a157  promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  reason.dat
+791d16af982a67ad170a6b6527e25a35  ship_mode.dat
+fdd888df2dec75980350c098b5ecd9dd  store.dat
+648c2b198e0146fcec367da3e18789b8  store_returns.dat
+216212298c6aa495ff23787f4787a3c9  store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  time_dim.dat
+aadd166468f7857481fab1d22a57093c  warehouse.dat
+ec1ef558b20e106d0865d8d4e0e1e2da  web_page.dat
+722765b2c80c8c7eb8ab24db4485d451  web_returns.dat
+6ff647dc373b6faa2d968efc6ebd2636  web_sales.dat
+25da541de4a7c1c26e7d06bff05d09b9  web_site.dat
+```
+
+# Scale Factor 5
+```
+9dc867ca9a5eafb648364f97daf5413a  call_center.dat
+0bbac1b8bdcf8ce2d5f0034980ee0196  catalog_page.dat
+7595e1cf463462d6a0ac2b506d6ed334  catalog_returns.dat
+5c470ef9ee066f08cca88eb2cd5301b1  catalog_sales.dat
+2dd8524e852611c2dfc3fbed583f69eb  customer.dat
+0b0cf1f590a517d337c5427f8fcb9709  customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  date_dim.dat
+5c59f534b6798b3f67abbfa2aa08e843  dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
+db8e8012be51ef81cf215774bec95533  income_band.dat
+85f184fc5e7fb8b5ea35e3fa075ac64d  inventory.dat
+8062fcb75490a4a7271ec8c1d53273dc  item.dat
+69486ca6d06c5e870f033fd68f24fa51  promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  reason.dat
+791d16af982a67ad170a6b6527e25a35  ship_mode.dat
+e143989584ef5ed3543247a84413fc66  store.dat
+41b2c8f0f7f0ebdfcf0670efbdefbb74  store_returns.dat
+8fff967ba3b22ff70fe9af415fea5ed5  store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  time_dim.dat
+33d55e78a95d1b00f185683faa2ad5e3  warehouse.dat
+f1dd90bf021a9eb35c148eab24b753fe  web_page.dat
+2053a293df0d9b0dbbe56a1af406d143  web_returns.dat
+1edb176aea071bbefc0b4bd82553c305  web_sales.dat
+25da541de4a7c1c26e7d06bff05d09b9  web_site.dat
+```
+
+# Scale Factor 6
+```
+33bea7e6f022e0e76c32ca94e4c2e164  call_center.dat
+0bbac1b8bdcf8ce2d5f0034980ee0196  catalog_page.dat
+c54aa7773140de851fa9a25d595fd82a  catalog_returns.dat
+80992559c3d9119e1069180957262f4a  catalog_sales.dat
+27f8a417a0219a3cac0de0d109da7bc0  customer.dat
+688c20ca0c414068475f03dade025e6a  customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  date_dim.dat
+27a1cad15feb6b56fc211ae0c8f0f1bf  dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
+db8e8012be51ef81cf215774bec95533  income_band.dat
+80d16437f02aa7b526a41357035ef39c  inventory.dat
+803bdc53523e8e275953f5d47c91a6ac  item.dat
+f5314f14c8fe0b81550bbd6cc0b6051d  promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  reason.dat
+791d16af982a67ad170a6b6527e25a35  ship_mode.dat
+89d32bc7f63f2d13d85d46816e352581  store.dat
+07189d7a144dd00609a1ef396ea6d7e3  store_returns.dat
+afdd7693e63b0e184618458922c928b5  store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  time_dim.dat
+afa9ff49e114573638172fe141faac7b  warehouse.dat
+35df4e65d3189a0143c76ea51960406b  web_page.dat
+9d4cdb8301efc49c9ca7ffe73c635148  web_returns.dat
+5a5651d907389529ebcf60993463bfa1  web_sales.dat
+3d1aed8f3e5ce0ee8b903d9551440e5d  web_site.dat
+```
+
+# Scale Factor 7
+```
+7601405c1c5b41e8f7909c58478846fb  call_center.dat
+0bbac1b8bdcf8ce2d5f0034980ee0196  catalog_page.dat
+05517b3a0656268fb05ccffe4bf0f10b  catalog_returns.dat
+cea640b84e7dc1da0e0ddd29f3b6f811  catalog_sales.dat
+11e04f2820ffbfa815bc714550cb9149  customer.dat
+119d6dba55e4dd66389f38077bd85751  customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  date_dim.dat
+44aa426c9be1e3f7eae4a70e46b1d285  dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
+db8e8012be51ef81cf215774bec95533  income_band.dat
+e15d3c6c997107e207b205d3190af82a  inventory.dat
+b4ee842ffdf613a87753b4897816732d  item.dat
+046a9bbe813b50f73b5281b9681f6627  promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  reason.dat
+791d16af982a67ad170a6b6527e25a35  ship_mode.dat
+5b5e9cb639b8545a135f5c8b747719be  store.dat
+895f3c7b5a83261a291bc8b85b48d60c  store_returns.dat
+67f2f9e68757a7148e20738ed244aaad  store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  time_dim.dat
+42c2d988496e6c8676bd02fa058fe345  warehouse.dat
+3b1359005580c32de2f80844d8900cbc  web_page.dat
+0176292b5e115f9b72cf504e1adbdd2b  web_returns.dat
+c715823d1a284005a39c049bb77d774b  web_sales.dat
+20a247a407758d5fa195bc1186a794eb  web_site.dat
+```
+
+# Scale Factor 8
+```
+3cac9c04a837c0d6b2ed7878c9cd742a  call_center.dat
+0bbac1b8bdcf8ce2d5f0034980ee0196  catalog_page.dat
+93a40533aebfede19b46ce8bc2cbe132  catalog_returns.dat
+06ccf76d8d609d6e6f7490f83454c7e6  catalog_sales.dat
+76e9c39990802614902379a790400c61  customer.dat
+7edbbd5a0c214ce2ed27d00637374996  customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  date_dim.dat
+71a8920c0cf042c46146b17a56237729  dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
+db8e8012be51ef81cf215774bec95533  income_band.dat
+57f67c8bd75bbc277a1ef4e0a53cd06f  inventory.dat
+458a54008399201d99c581905dc4f018  item.dat
+1beee07f0d336e441cd294c6b143d09f  promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  reason.dat
+791d16af982a67ad170a6b6527e25a35  ship_mode.dat
+d501c1acea7442ef7d7d07803bf59be9  store.dat
+cca90c681c9d3963d27d13db0d071f15  store_returns.dat
+18c43e1c2e33d587d03b886bd1a5e910  store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  time_dim.dat
+748aea7d14d4cc62c74fde5235d61daa  warehouse.dat
+7549449c7522541b5240c12a2e10c861  web_page.dat
+0a6265e68a5a6fbb2d92fd6c5ffe2398  web_returns.dat
+fb1883a4b87c69fc79365b6bc586c373  web_sales.dat
+f7ec6b0a42c79276260706f1e23a5fca  web_site.dat
+```
+
+# Scale Factor 9
+```
+a81be73fc613f92659478928badfef25  call_center.dat
+0bbac1b8bdcf8ce2d5f0034980ee0196  catalog_page.dat
+3ff34ffc3e2eef9dda14bf514045608b  catalog_returns.dat
+0a31606db4c15c9a0358c01373f5d935  catalog_sales.dat
+b3ecfabbfc6f219c1aa834a941b6396f  customer.dat
+1a4cb8e024bd04832ae9d02ab6aadd87  customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  date_dim.dat
+8ea15f41bec68714351578bcfb7d4532  dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
+db8e8012be51ef81cf215774bec95533  income_band.dat
+ce21cf2304f1926c77db1c8fe1d29d0a  inventory.dat
+be2ba9490fc48c587c109b1dc22fa908  item.dat
+2347987fc79b03538cf0cf97c5b2984f  promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  reason.dat
+791d16af982a67ad170a6b6527e25a35  ship_mode.dat
+ddb52650680daeaee3758c8ca087c0a9  store.dat
+a8daff9e88bf9e5e41e782a17de0aa3b  store_returns.dat
+3c80d7d5253189aae4872869a00cd7b3  store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  time_dim.dat
+d3e080d6061f022af9172d9febed83c9  warehouse.dat
+28c4c771806569e0c9ec0ecd3575ebf4  web_page.dat
+b2a8beaa4f0c9f5559ec3bfada8ba72b  web_returns.dat
+e1e55258d527d9ea3887493c117dbc42  web_sales.dat
+b6b1591aa5b72761f1fe8cb3d37e76d8  web_site.dat
+```
+
+# Scale Factor 10
+```
+235909679f4d125e769aa38eb16e9098  call_center.dat
+a5daa0d93ecde8bd9f6ed79cd3b63916  catalog_page.dat
+80edc08ff51fc5cff5af0a1aa688502b  catalog_returns.dat
+97d5351b430d6c15e3906518315f0787  catalog_sales.dat
+7842d4e8c9fc489c8c9ad7cf6d6064af  customer.dat
+860602fea368111009ef08b167e1e299  customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  date_dim.dat
+487d9d0ee4131eed4e28149cd566fde2  dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
+db8e8012be51ef81cf215774bec95533  income_band.dat
+4ad3640917c6567038f081bbe2cf0e3e  inventory.dat
+bff29691c74ae66eb2dcc3af686fb2ba  item.dat
+b8e8a7741f64edc5d09fdb0453c86705  promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  reason.dat
+791d16af982a67ad170a6b6527e25a35  ship_mode.dat
+430a01467a2d55d0e9a1bebad4f1c44b  store.dat
+69cff9a87e4609cc819d795547588992  store_returns.dat
+ecff92350fa0466e9b9407a1b5ad4020  store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  time_dim.dat
+e0c56fe622774d09c9dec42029881ad5  warehouse.dat
+e55695fdb2b86f96cf46e2a55b6f3748  web_page.dat
+247dc93969b021f02b9909cc75140ec9  web_returns.dat
+4da375300bcb0ce8785e1f100fb72efe  web_sales.dat
+4669d52e36cd112af10e137e5d8d7697  web_site.dat
+```
+
