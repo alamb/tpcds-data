@@ -389,7 +389,32 @@ de7c290baeb958092de4ba042fdc7594  web_returns.dat
 caf6f6ec28c96a657532fadc2e4b3958  web_site.dat
 ```
 
-# Scale Factor 1000
+# Scale Factor 500
+```
+99321dba7789e7a652cfc967037ea4fe  sf500/call_center.dat
+0bbac1b8bdcf8ce2d5f0034980ee0196  sf500/catalog_page.dat
+a674983b3b15283206339dea1eccce22  sf500/catalog_returns.dat
+7727f22cf27132fee516da041143a102  sf500/catalog_sales.dat
+d149a01808e27c079985a138a23dd14a  sf500/customer.dat
+29855ba960bb21f11053ce338ebac3bf  sf500/customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  sf500/customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  sf500/date_dim.dat
+0a8ba350a65e7fbdf4546870d819b2a3  sf500/dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  sf500/household_demographics.dat
+db8e8012be51ef81cf215774bec95533  sf500/income_band.dat
+13c4297248cadeff64c95a80655618a5  sf500/inventory.dat
+1346d5b1000453fa230079710de7a37c  sf500/item.dat
+ec855ff3e1af5f256acbfa7d3c2ff72b  sf500/promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  sf500/reason.dat
+791d16af982a67ad170a6b6527e25a35  sf500/ship_mode.dat
+ee814717d231cc6279f8926be01d1235  sf500/store.dat
+0d0edef1bc246e94522974055f4eee91  sf500/store_returns.dat
+a2f73ce5959873c1c098849c62841cc3  sf500/store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  sf500/time_dim.dat
+e3e09ea16b6b3d413c0d096311312326  sf500/warehouse.dat
+592a0f72e9455c950afd49bf1cfef5e6  sf500/web_page.dat
+997a527ab7c1b6815d46c273690d89b8  sf500/web_returns.dat
+de7c9cab75e5a761ad2621ec68ee9914  sf500/web_sales.dat
+4ba31b8c41b9ccabac41fbaadedea3ed  sf500/web_site.dat
 ```
 
-```
