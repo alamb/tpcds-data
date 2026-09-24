@@ -420,5 +420,29 @@ de7c9cab75e5a761ad2621ec68ee9914  web_sales.dat
 
 # Scale Factor 1000
 ```
-
+0069f84ceca50c0d999c8fe8992bd2f3  call_center.dat
+9875449411d1accad2066ece4afb27f7  catalog_page.dat
+88ed01377641a0f25965283a2cfaaaf7  catalog_returns.dat
+8693623f09f8473cc7f074ff404218ce  catalog_sales.dat
+bf92dcd61c98e64323a93581e85c1a6a  customer.dat
+574981bbdac6371c1c0094f963271284  customer_address.dat
+8831872c6d56ea9d4f24701f2feaef48  customer_demographics.dat
+f3e77714328dcc57302777e72fd7747c  date_dim.dat
+8d88f7a2c837788a5bbfaa9cb95df5e8  dbgen_version.dat
+dccf2ff17c5e420021fbf92bf9a0a5ec  household_demographics.dat
+db8e8012be51ef81cf215774bec95533  income_band.dat
+e851fa71d10edc9889b402671046b82d  inventory.dat
+d4eedaff103d4e92e9618a63b513d2e0  item.dat
+85a93630e8affdd2a4270bf786373a00  promotion.dat
+6348c26c002726e0fec79bcb2dd6e7aa  reason.dat
+791d16af982a67ad170a6b6527e25a35  ship_mode.dat
+63b90d0e6bbe55c5d76652be3ca98177  store.dat
+1b9518d649aa80cdf511799b2544ddc7  store_returns.dat
+7aeb38f1c59cff168ae866cb49a6fbe0  store_sales.dat
+a68339c5720d25380b53f6e0f2f72333  time_dim.dat
+5c0c21d5c03c630a0ab6fc5c65358a2c  warehouse.dat
+7d6385eb0ef4c2eca04883d2500791fa  web_page.dat
+a90fc7d9548c7418d66d63e80279275e  web_returns.dat
+4e2ccbecaaec44ab8daad392760a7798  web_sales.dat
+2fcdd8a9558e88467af4c075e3aeea3a  web_site.dat
 ```
